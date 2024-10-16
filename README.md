@@ -1,1 +1,1 @@
-# qa-project-01-dise-o-pruebas
+# qa-project-01-diseño-pruebas
